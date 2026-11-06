@@ -974,3 +974,9 @@ footer {
         font-size: 14px;
     }
 }
+
+.secret-section::before,
+.secret-section::after,
+.afterparty-star {
+    display: none !important;
+}
